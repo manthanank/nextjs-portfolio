@@ -1,6 +1,6 @@
-# React JS Resume Website Template
+# Next JS Resume Website Template
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true 'ReactJS Resume Website Template')
+![NextJS Resume Website Template](resume-screenshot.png?raw=true 'ReactJS Resume Website Template')
 
 <div align="center">
 
